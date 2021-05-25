@@ -1,0 +1,16 @@
+	Bharat Electicals
+Data : 2021-05-25			Time : 00:59:08 AM
+
+ Bill Number : 1044
+ Customer Name : xzcz
+ Phone Number : 1234567889
+ Customer Add : zxcz
+ Email id : 
+========================================
+ Product		QTY		Price
+========================================
+ open box 6mo smart		10		600
+----------------------------------------
+ Total : 6000 Rs.
+ Total Quantity : 10
+----------------------------------------

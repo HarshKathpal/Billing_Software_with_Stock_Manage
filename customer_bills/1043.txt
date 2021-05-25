@@ -1,0 +1,16 @@
+	Bharat Electicals
+Data : 2021-05-25			Time : 00:46:03 AM
+
+ Bill Number : 1043
+ Customer Name : sddas
+ Phone Number : 1112223334
+ Customer Add : asdas
+ Email id : 
+========================================
+ Product		QTY		Price
+========================================
+ 16A socket Dezigner		100		20
+----------------------------------------
+ Total : 2000 Rs.
+ Total Quantity : 100
+----------------------------------------

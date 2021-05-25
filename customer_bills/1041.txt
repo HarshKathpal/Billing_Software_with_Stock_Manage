@@ -1,0 +1,16 @@
+	Bharat Electicals
+Data : 2021-05-25			Time : 00:25:54 AM
+
+ Bill Number : 1041
+ Customer Name : dfdsfs
+ Phone Number : 1111111111
+ Customer Add : dfsfss
+ Email id : 
+========================================
+ Product		QTY		Price
+========================================
+ Sheet 6mo Era		1		55
+----------------------------------------
+ Total : 55 Rs.
+ Total Quantity : 1
+----------------------------------------

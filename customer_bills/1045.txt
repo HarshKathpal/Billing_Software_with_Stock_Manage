@@ -1,0 +1,16 @@
+	Bharat Electicals
+Data : 2021-05-25			Time : 12:47:41 PM
+
+ Bill Number : 1045
+ Customer Name : dfsd
+ Phone Number : 1234567899
+ Customer Add : sdfsd
+ Email id : 
+========================================
+ Product		QTY		Price
+========================================
+ 16A socket Era		5		50
+----------------------------------------
+ Total : 250 Rs.
+ Total Quantity : 5
+----------------------------------------
